@@ -1,0 +1,30 @@
+﻿  AnimationClip.cpp
+  AnimationController.cpp
+  BoneAnimation.cpp
+  GeometryShader.cpp
+  BlendState.cpp
+  Camera.cpp
+C:\Users\Michael\OneDrive\Documents\Important Documents\Personal\Projects\3D_Engine\Graphics\Src\Camera.cpp(111,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\OneDrive\Documents\Important Documents\Personal\Projects\3D_Engine\Graphics\Src\Camera.cpp(110,15): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\Michael\OneDrive\Documents\Important Documents\Personal\Projects\3D_Engine\Graphics\Src\Camera.cpp(109,9): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+C:\Users\Michael\OneDrive\Documents\Important Documents\Personal\Projects\3D_Engine\Graphics\Src\Camera.cpp(108,3): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+  ConstantBuffer.cpp
+  DepthMap.cpp
+  GraphicsSystem.cpp
+  Heightmap.cpp
+  Mesh.cpp
+  MeshBuffer.cpp
+  MeshBuilder.cpp
+C:\Users\Michael\OneDrive\Documents\Important Documents\Personal\Projects\3D_Engine\Graphics\Src\MeshBuilder.cpp(24,29): warning C4267: 'return': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\Michael\OneDrive\Documents\Important Documents\Personal\Projects\3D_Engine\Graphics\Src\MeshBuilder.cpp(36,89): warning C4267: 'argument': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Model.cpp
+  PixelShader.cpp
+  Precompiled.cpp
+  RenderTarget.cpp
+  Sampler.cpp
+  ScreenMeshBuffer.cpp
+  SimpleDraw.cpp
+  Terrain.cpp
+  Texture.cpp
+  VertexShader.cpp
+  Graphics.vcxproj -> C:\Users\Michael\OneDrive\Documents\Important Documents\Personal\Projects\3D_Engine\x64\Debug\Graphics.lib
